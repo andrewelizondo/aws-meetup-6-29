@@ -1,1 +1,0 @@
-include_recipe 'haproxy-ng::install'

@@ -4,7 +4,7 @@ maintainer_email 'you@example.com'
 license 'all_rights'
 description 'Installs/Configures aws_meetup'
 long_description 'Installs/Configures aws_meetup'
-version '0.1.10'
+version '0.2.0'
 
 depends 'simple-web'
 depends 'haproxy-ng'
