@@ -1,0 +1,10 @@
+name 'aws_meetup'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures aws_meetup'
+long_description 'Installs/Configures aws_meetup'
+version '0.1.10'
+
+depends 'simple-web'
+depends 'haproxy-ng'
